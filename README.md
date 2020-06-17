@@ -1,2 +1,5 @@
-# Python-Course-Beginner
-June 9 2020 (Tuesday)
+# Python-Courses
+
+This repository is managed by IEEE Student Branch Ilmenau by students of TU Ilmenau.
+
+
